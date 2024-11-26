@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "shades",
+        "price": 50,
+        "description": "a pair of stylish shades",
+        "image": ""
+    },
+    {
+        "name":"jacket",
+        "price":100,
+        "description":"a black winter jacket",
+        "image":""
+    },
+    {
+        "name":"shoes",
+        "price":75,
+        "description":"a comfy pair of shoes",
+        "image":""
+    },
+    {
+        "name":"pants",
+        "price":80,
+        "description":"a nice jeans",
+        "image":""
+    }
+
+]
